@@ -1,7 +1,5 @@
 # Adblock Test
 
-</p>
-
 ## Adblock Test  [[link]](https://adblocktest.nam.lat)
 This tool allows you to check if your Adblock solution is blocking enough hosts. With a simple UI and easy UX you can check how much you have blocked. The tool tries to connect to the most common domains for different categories (ads, analytics, bug tracking, social trackers, mix and OEMs).
 
